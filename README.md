@@ -13,4 +13,25 @@ Web apis i know about:
 fetch, webrtc, dom, xmlhttprequest, canvas, webgl, webaudio
 
 Websites(static and dynamic) list:
-1. (Online Grocery List)[https://online-grocery-list.netlify.app/]
+1. Online Grocery List
+   https://online-grocery-list.netlify.app/
+2. Restaurant Menu
+   https://le-menu.netlify.app/  
+3. Online web editor   
+   https://modi-web-editor.netlify.app/
+4. Random Text Generator
+   https://random-text-generator.netlify.app/
+5. Navigation menu
+   https://menyu-de-navigatsii.netlify.app/
+6. Color Grid Generator
+   https://cuadricula-de-color.netlify.app/
+7. People Profile   
+   https://el-perfil.netlify.app/
+8. Testimonials
+   https://otzyv.netlify.app/
+9. FAQ
+   https://faq-template.netlify.app/  
+10. Tour destinations
+    https://madamme.netlify.app/
+11. Birthday Reminder
+    https://napominaniye-o-den-rozhdeniya.netlify.app/    
