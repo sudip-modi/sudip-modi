@@ -9,5 +9,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My left leg is longer than my right leg
 
-I know about the existence of following web apis:
+Web apis i know about:
 fetch, webrtc, dom, xmlhttprequest, canvas, webgl, webaudio
+
+Websites(static and dynamic) list:
+1. (Online Grocery List)[https://online-grocery-list.netlify.app/]
