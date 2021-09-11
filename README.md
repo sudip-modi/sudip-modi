@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on user roles and data filter tables in reactjs
 - 🌱 I’m currently learning reactjs and python
 - 👯 I’m looking to collaborate on web projects
-- 🤔 I’m looking for help with internships
+- 🤔 I’m looking for interesting web projects
 - 💬 Ask me about web development
 - 📫 How to reach me: email:sudipmodi5297@gmail.com twitter:sudipmodi5297
 - 😄 Pronouns: He/Him
