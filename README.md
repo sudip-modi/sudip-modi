@@ -9,16 +9,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My left leg is longer than my right leg
 
-Web apis i know about:
-fetch, webrtc, dom, xmlhttprequest, canvas, webgl, webaudio
-
-Websites(static and dynamic) list:
-1. Online Grocery List
+Reactjs based Projects:
+1. Admin dashboard
+   https://dashboard-manzana.netlify.app
+2. Online Grocery List
    https://online-grocery-list.netlify.app/
-2. Restaurant Menu
+3. Restaurant Menu
    https://le-menu.netlify.app/  
-3. Online web editor   
-   https://modi-web-editor.netlify.app/
 4. Random Text Generator
    https://random-text-generator.netlify.app/
 5. Navigation menu
@@ -37,3 +34,6 @@ Websites(static and dynamic) list:
     https://napominaniye-o-den-rozhdeniya.netlify.app/    
 12. To-Do App
     https://immense-bastion-71576.herokuapp.com/
+Vanilla projects:
+1.  Online web editor   
+    https://modi-web-editor.netlify.app/
