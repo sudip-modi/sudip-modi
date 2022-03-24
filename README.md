@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on user roles and data filter tables in reactjs
+- 🔭 I’m currently working on realtime communication on web apps using webRTC and websockets
 - 🌱 I’m currently learning reactjs and python
 - 👯 I’m looking to collaborate on web projects
 - 🤔 I’m looking for interesting web projects
