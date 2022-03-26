@@ -39,3 +39,5 @@ Reactjs based Projects:
 Vanilla projects:
 1.  Online web editor   
     https://modi-web-editor.netlify.app/
+2. Bubble sort visualiser
+    https://sudip-modi.github.io/bubble-sort-visualiser     
