@@ -6,8 +6,6 @@
 - 🤔 I’m looking for interesting web projects
 - 💬 Ask me about web development
 - 📫 How to reach me: email:sudipmodi5297@gmail.com twitter:sudipmodi5297
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My left leg is longer than my right leg
 
 Reactjs based Projects:
 1. Admin dashboard
